@@ -1,7 +1,7 @@
 {
-  "name": "BangJoss.com",
-  "short_name": "BangJoss",
-  "start_url": "https://www.bangjoss.com/?m=1",
+  "name": "Gebang Kiidiw",
+  "short_name": "AbangJoss",
+  "start_url": "https://www.abangjoss.com/?m=1",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
