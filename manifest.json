@@ -3,7 +3,7 @@
   "short_name": "AbangJoss",
   "start_url": "https://www.abangjoss.com/?m=1",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#00d0fa",
   "theme_color": "#2B0C93",
   "description": "Bang Joss adalah Sebuah Blog Tutorial Internet Gratis Berbagi Config Terbaru Tempat Sharing Aplikasi, Tutorial Termux Dan Tips trik internet.",
   "icons": [{
